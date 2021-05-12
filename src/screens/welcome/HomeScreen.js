@@ -51,7 +51,6 @@ const CardContainer = styled.View`
 `;
 
 const LogoImage = styled.Image`
-    /* width: 200px; */
     height: 85px;
     margin: 50px 0px 30px 0px;
 `;
